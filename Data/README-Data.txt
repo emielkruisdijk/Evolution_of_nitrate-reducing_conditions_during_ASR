@@ -31,5 +31,4 @@ Column T-AW: Elemental analysis in watersample by Inductively Coupled Plasma –
 Column AX-BB: Analysis of cations by Ion Chromatography, concentrations in mg/L (type: float)
 Column BC-BJ: Analysis of anions by Ion Chromatography, concentrations in mg/L (type: float)
 Column BK: Elemental analyis of P by Inductively Coupled Plasma - optical emission spectrometry, concentrations in mg/L (type: float)
-Column BL-CK: Analysis of pesticides by Liquid Chromatography – Mass Spectrometry (LC-MS; Xevo TQ-S micro, Waters, U.S.A.), concentrations in ug/L (type: float)
-Column CL-CN: Analysis of NH4, PO4, Alkalinity obtained from Discrete Analysis (DA; AQ400, Seal analytical, UK), concentrations in mg/L (type: float)  
+Column BL-BN: Analysis of NH4, PO4, Alkalinity obtained from Discrete Analysis (DA; AQ400, Seal analytical, UK), concentrations in mg/L (type: float)  
