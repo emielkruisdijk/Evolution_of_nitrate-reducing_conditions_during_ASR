@@ -1,6 +1,9 @@
 Title: Evolution of nitrate-reducing conditions during ASR
+
 Authors: Kruisdijk, Emiel; van Breukelen, Boris; Stuyfzand, Pieter
+
 Year: ??
+
 Published in: ??
 
 Welcome to the github repository with the data and scripts used for the article entitled: Evolution of nitrate-reducing conditions during ASR. 
