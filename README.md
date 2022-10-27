@@ -1,12 +1,13 @@
-Title: Evolution of nitrate-reducing conditions during ASR
+Title: Denitrification kinetics during aquifer storage and recovery of drainage
+water from agricultural land
 
-Authors: Kruisdijk, Emiel; van Breukelen, Boris; Stuyfzand, Pieter
+Authors: Kruisdijk, Emiel; Eisfeld, Carina; Stuyfzand, Pieter; van Breukelen, Boris
 
-Year: ??
+Year: 2022
 
-Published in: ??
+Published in: Science of the total environment
 
-Welcome to the github repository with the data and scripts used for the article entitled: Evolution of nitrate-reducing conditions during ASR. 
+Welcome to the github repository with the data and scripts used for this article.
 
 In the data folder, the dataset is located which is obtained and analysed in this article. 
 
